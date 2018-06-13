@@ -15,7 +15,7 @@ categories_path : categories.html
 tags_path : tags.html
 
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
-BASE_PATH : http://goileo.top
+BASE_PATH : http://96cj.top
 
 description : 学习搭建简单的个人网站
 title : CZM
@@ -24,13 +24,13 @@ logo : /assets/images/avatar.jpg
 
 
 author:
-  name: Goileo Lee
+  name: zhimin Cao
   maxim: Stay hungry,Stay foolish
   role: Jekyll Theme
-  email: goileolee@foxmail.com
-  github: goileolee
-  twitter: goileolee
-  facebook: goileolee
-  googleplus: +goileolee
-  bio: "Hi, 我是goileolee"
+  email: 18210462051@163.com
+  github: CZM1996
+  twitter: null
+  facebook: null
+  googleplus: null
+  bio: "Hi, 我是曹治民"
   uno-dbyll: /assets/images/avatar.jpg
